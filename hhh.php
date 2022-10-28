@@ -1,2 +1,2 @@
-<? echo "salam";?>
+<?php echo "salam";?>
 <?php echo "for test";?>
